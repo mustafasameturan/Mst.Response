@@ -10,13 +10,16 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mst.Response")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Mustafa Samet Turan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("This package includes the Response class, which represents general purpose HTTP r" +
+    "esponses, used to standardize response generation and communication in APIs.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mst.Response")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mst.Response")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/mustafasameturan/Mst.Response")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
 

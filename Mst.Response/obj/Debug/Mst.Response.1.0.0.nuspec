@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mst.Response</id>
+    <version>1.0.0</version>
+    <authors>Mustafa Samet Turan</authors>
+    <licenseUrl>https://github.com/mustafasameturan/Mst.Response/blob/main/LICENSE</licenseUrl>
+    <icon>mst-icon-bg.png</icon>
+    <description>This package includes the Response class, which represents general purpose HTTP responses, used to standardize response generation and communication in APIs.</description>
+    <repository type="Git" url="https://github.com/mustafasameturan/Mst.Response" />
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/bin/Debug/net7.0/Mst.Response.dll" target="lib/net7.0/Mst.Response.dll" />
+    <file src="/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/mst-icon-bg.png" target="mst-icon-bg.png" />
+  </files>
+</package>
