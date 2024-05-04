@@ -1,0 +1,15 @@
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/bin/Debug/net7.0/Mst.Response
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/bin/Debug/net7.0/Mst.Response.deps.json
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/bin/Debug/net7.0/Mst.Response.runtimeconfig.json
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/bin/Debug/net7.0/Mst.Response.dll
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/bin/Debug/net7.0/Mst.Response.pdb
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.csproj.AssemblyReference.cache
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.AssemblyInfoInputs.cache
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.AssemblyInfo.cs
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.csproj.CoreCompileInputs.cache
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.dll
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/refint/Mst.Response.dll
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.pdb
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/Mst.Response.genruntimeconfig.cache
+/Users/mustafasameturan/Projects/Mst.Response/Mst.Response/obj/Debug/net7.0/ref/Mst.Response.dll
